@@ -14,7 +14,6 @@ I created this repository to keep my resume accessible, version-controlled, and 
 📩 Let’s Connect:
 If you’re interested in discussing cybersecurity, ethical hacking, or career opportunities, feel free to reach out!
 
-🔗 GitHub Profile: https://github.com/piyushjain8350/
 🔗 LinkedIn: https://www.linkedin.com/in/piyushjain8350/
 
 #CyberSecurity #Resume #PenetrationTesting #EthicalHacking #CareerGrowth #InfoSec #Networking
